@@ -27,7 +27,7 @@ User Story:
         - Year: What year was that movie produced
         - Genre(s): What genre does this movie fall into, can be multiple
         - Have Seen: If you have seen this movie or not
-        - Date Seen:
+        - Date Seen: The date you have seen the movie
 
 """
 
